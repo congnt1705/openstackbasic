@@ -1,5 +1,5 @@
 # Mô hình cài đặt
-Mô hình cài đặt lab OpenStack Pike trên Ubuntu 16.04 64-bit.  
+Mô hình cài đặt lab OpenStack Queens trên Ubuntu 16.04 64-bit.  
 ![lab](../picture/ha-labOPS.png)  
 # IP Planning
 ![IP](../picture/ip-planning.png)  
