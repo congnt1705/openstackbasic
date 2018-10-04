@@ -1,8 +1,8 @@
 # Mô hình cài đặt
 Mô hình cài đặt lab OpenStack Pike trên Ubuntu 16.04 64-bit.  
-![lab](../picture/labOPS.png)  
+![lab](../picture/ha-labOPS.png)  
 # IP Planning
-![IP](../picture/ip.png)  
+![IP](../picture/ip-planning.png)  
 # Cài đặt môi trường 
 ## Cấu hình Network
 Đặt địa chỉ IP như bảng phân hoạch địa chỉ IP ở trên. Restart service để áp dụng thay đổi
